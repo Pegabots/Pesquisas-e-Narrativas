@@ -36,6 +36,7 @@ Antes de começarmos, aqui estão algumas coisas que esperamos de você (e que v
 Se você quiser contribuir, comece pesquisando em [issues](https://github.com/caminhodoprojeto/issues) e [pull requests](https://github.com/caminhodoprojeto/pulls) para ver se alguém levantou uma ideia ou pergunta semelhante.
 
 Se você não vir sua ideia listada e achar que ela se encaixa nos objetivos deste guia, abra uma nova issue.
+<testando>
 
 ## Configurando seu ambiente
 
