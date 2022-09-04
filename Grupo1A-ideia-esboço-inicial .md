@@ -122,7 +122,7 @@ variáveis: Análise dos tweets publicados.
 
 **Objetivo:** Identificar a probabilidade de uma conta de usuário do twitter ser ou não um bot, além das formas já utilizadas, com o uso da análise de imagens.
 
-**Dados: **
+**Dados:**
 
 conteúdo de mídia dos tweets (vídeos e fotos).
 
